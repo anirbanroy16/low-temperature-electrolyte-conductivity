@@ -20,4 +20,6 @@ This repository has the following scripts:
 3. Feature generation code in Python for low temperarure using AutoFeat
 4. Linear regression code in Python to generate altered weights to Flores et al. (2022) along with grid search for identifying optimum regularization parameters
 
+Here is the github profile for the BIGMAP study: https://github.com/BIG-MAP/SR-electrolytes, while the link to the Flores et al. (2022) paper is here: https://pubs.rsc.org/en/content/articlelanding/2022/DD/D2DD00027J
+
 
